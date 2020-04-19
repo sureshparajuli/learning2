@@ -1,2 +1,2 @@
 # learning2
-Learning Git2 and Gitbub
+Learning Git2 and Gitbub from online class
